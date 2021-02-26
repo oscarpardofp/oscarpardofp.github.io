@@ -24,11 +24,11 @@
 ```
 
 **Enlace**
-A continuación se muestra un [Ejemplo de enlace](https://amazon.es/ "A comprar!").
+A continuación se muestra un [Ejemplo de enlace](https://amazon.es/ "A comprar!")
 
 **Imagen**
 ![Esta es una imagen de ejemplo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 **Link**
-[Enlace a Referencias](https://github.com/oscarpardofp/oscarpardofp.github.io/blob/main/referencias.md).
+[Enlace a Referencias](referencias.md)
 
