@@ -44,9 +44,10 @@ A continuación se muestra un [Ejemplo de enlace](https://amazon.es/ "A comprar!
 
 > cita 
 
-`
+```
 Esto es codigo
-`
+```
+
 
 [google](https://google.es)
 
