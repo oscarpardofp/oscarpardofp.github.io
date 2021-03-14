@@ -33,11 +33,11 @@ A continuación se muestra un [Ejemplo de enlace](https://amazon.es/ "A comprar!
 [Enlace a Referencias](referencias.md)
 
 
-#Prueba Oscar
+# Prueba Oscar
 
 
--PLatano
--Manzana
+- PLatano
+- Manzana
 
 1. hola
 2. adios
@@ -49,4 +49,4 @@ Esto es codigo
 '
 [google](https://google.es)
 
-![google] (https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![google](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
