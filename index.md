@@ -33,21 +33,3 @@ A continuación se muestra un [Ejemplo de enlace](https://amazon.es/ "A comprar!
 [Enlace a Referencias](referencias.md)
 
 
-
-# Titulo
-
-- Lista 1
-- Lista 2
-
-
-1. Lista 1
-2. Lista 2
-
-> cita
-
-``` COdigo ```
-
-[LINK](HTTPS://WWW.GOOGLE.ES)
-
-![imagen](dfd)
-
