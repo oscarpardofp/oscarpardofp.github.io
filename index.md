@@ -32,3 +32,19 @@ A continuación se muestra un [Ejemplo de enlace](https://amazon.es/ "A comprar!
 **Link**
 [Enlace a Referencias](referencias.md)
 
+
+#Prueba Oscar
+-PLatano
+-Manzana
+
+1. hola
+2. adios
+
+> cita 
+
+'
+Esto es codigo
+'
+[google](https://google.es)
+
+![google] (https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
